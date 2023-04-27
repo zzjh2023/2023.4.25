@@ -30,5 +30,6 @@ app.use('/api', router)
 
 // 启动服务器
 app.listen(80, function(){
-    console.log('http://127.0.0.1');
+    console.log('测试 http://127.0.0.1');
 })
+
